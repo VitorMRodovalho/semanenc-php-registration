@@ -1,0 +1,47 @@
+a:link {
+	text-decoration: none;
+	color: #666666;
+}
+a:visited {
+	text-decoration: none;
+	color: #666666;
+}
+a:hover {
+	text-decoration: underline;
+	color: #333333;
+}
+a:active {
+	text-decoration: none;
+	color: #333333;
+}
+.formulario_geral
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	border: 2 solid #999999;//#c0c0c0;
+}
+.formulario_cor
+{
+	background-color: #0099FF;
+}
+.formulario_ex
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #666666;
+}
+.formulario_ex2
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #666666;
+}
+.caixa
+{
+	border: 1px solid #c0c0c0;
+	color: #333333;
+}
